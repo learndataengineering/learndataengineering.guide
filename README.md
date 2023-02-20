@@ -28,4 +28,4 @@ Modern data engineering is very broad field. There are a lot of tools and techno
 
 ### Can I contribute to the guide?
 
-YES! This is an opensource guide and the goal is to serve the data engineering community with it. Any meaningful additions are welcome thorough [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+YES! This is an opensource guide and the goal is to serve the data engineering community with it. Any meaningful additions are welcome through [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
