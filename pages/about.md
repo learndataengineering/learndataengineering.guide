@@ -2,9 +2,6 @@
 title: About
 permalink: /about/
 ---
-
-# Learn Data Engineering
-
 Hello learner 👋, welcome to learn data engineering guide.
 
 ## What is this guide? and who is this for?
