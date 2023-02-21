@@ -1,5 +1,2 @@
-- title: Documentation
-  url: docs
-  links:
-    - title: "Getting Started"
-      url: "docs/intro"
+- title: "Getting Started"
+  url: "docs/intro"
