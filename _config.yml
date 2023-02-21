@@ -27,7 +27,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.learndataengineering.guide" # the base hostname & protocol for your site
 
 # Keywords (space separated)
-keywords: "documentation theme"
+keywords: "dataengineering data"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html
