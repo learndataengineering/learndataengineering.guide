@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 ---
-Hello learner 👋, welcome to learn data engineering guide.
+Hello learner 👋, welcome to learn data engineering guide!
 
 ## What is this guide? and who is this for?
 
