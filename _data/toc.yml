@@ -1,4 +1,4 @@
-- title: Learn Data Engineering
+- title: Guide
   url: docs
   links:
     - title: "Getting Started"
@@ -10,10 +10,10 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: "About"
+    - title: "FAQs"
       url: "about"
-    - title: "News"
-      url: "news"
+    # - title: "News"
+    #   url: "news"
 # - title: "Extras"
 #   url: "docs/extras"
 #   links:
