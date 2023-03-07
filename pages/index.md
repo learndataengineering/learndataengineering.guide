@@ -28,7 +28,7 @@ In modern data platforms, the opensource tools are productized and they abstract
 
 ![ApacheSparkDatabricks](../assets/img/index.md/spark-databricks.png)
 
-In the data field, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) all existed in enterprise data warehousing long before Hadoop came into picture. Since the focus has shifted from data tools to resulting data once again, We see a growing intrest in enterprise data mamanagement tools and processes like these.
+In the data field, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) all existed in enterprise data warehousing long before Hadoop came into picture. Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes like these.
 
 ### Skillset for Modern Data Engineering
 
