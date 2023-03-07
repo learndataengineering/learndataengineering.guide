@@ -32,22 +32,22 @@ Without complicating, data engineers need strong data skills and good software e
 
 #### a. Data skills
 
-  1. SQL
-  2. Data Warehousing basics
-  3. Data Modelling
+- SQL
+- Data Warehousing basics
+- Data Modelling
 
 #### b. Software Engineering skills
 
-  1. One programming language. Preferrably Python.
-  2. Git
+- One programming language. Preferrably Python.
+- Git
 
 #### c. Data Engineering tools
 
-  1. Basics of distributed computing
-  2. Hadoop Ecosystem
-  3. Apache Spark
+- Basics of distributed computing
+- Hadoop Ecosystem
+- Apache Spark
 
 #### d. Additional skills
 
-  1. Pipeline Orchestration tool like Airflow, Azure Data Factory and etc
-  2. Cloud services for data engineering
+- Pipeline Orchestration tool like Airflow, Azure Data Factory and etc
+- Cloud services for data engineering
