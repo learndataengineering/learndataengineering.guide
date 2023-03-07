@@ -30,24 +30,24 @@ In data field, old is new. The terms like [data governance](https://www.ibm.com/
 
 Without complicating, data engineers need strong data skills and good software engineering skills
 
-#### a. Data skills
+#### a. Data Skills
 
 - SQL
 - Data Warehousing basics
 - Data Modelling
 
-#### b. Software Engineering skills
+#### b. Software Engineering Skills
 
 - One programming language. Preferrably Python.
 - Git
 
-#### c. Data Engineering tools
+#### c. Data Engineering Tools
 
 - Basics of distributed computing
-- Hadoop Ecosystem
-- Apache Spark
+- Hadoop Ecosystem Components
+- Data Warehouse like Apache Spark with Cloud Storage or Snowflake, BigQuery
 
-#### d. Additional skills
+#### d. Additional Skills
 
-- Pipeline Orchestration tool like Airflow, Azure Data Factory and etc
+- Pipeline Orchestration tools like Airflow, Azure Data Factory and etc
 - Cloud services for data engineering
