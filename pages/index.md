@@ -8,8 +8,46 @@ Hello learner 👋, Welcome to the data engineering guide!
 
 ### Introduction
 
-As data engineers we deal with various data and engineering aspects to deliver the data to various stakeholders. There are a ton of tools used in the modern data architectures as well.
+As data engineers we deal with various data and engineering aspects to deliver the data to various stakeholders. There are a ton of tools used in the modern data architectures.
 
-As a beginner or even as an experienced data professional, it is very easy to get lost trying to understand how to become a data engineer.
+As a beginner or even as an experienced data professional, it is very easy to get lost trying to understand what skills are required for data engineering and how to become a data engineer.
 
-This guide intends to solve that specific problem by providing a clear path to gain the core data engineering skillset and beyond. More on this [here](https://www.learndataengineering.guide/about/).
+This guide intends to solve that specific problem. It provides a clear path to the core data engineering skillset and beyond. More on this [here](https://www.learndataengineering.guide/faqs/).
+
+### Modern Data Engineering Landscape
+
+The opensource revolution of the [Hadoop ecosystem](https://www.geeksforgeeks.org/hadoop-ecosystem/) years enabled every oraganization to build their own data platforms with plethora of tools.
+
+Shortly after their success, the opensource tools fell short of their expectations since they needed lot of software engineering, networking and baby-sitting skills to get the right data output within time.
+
+The [modern data engineering platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165) greatly abstracts a lot of complexities of the data stack of the previous [Hadoop](https://www.javatpoint.com/what-is-hadoop) years. The focus is on serving the data at scale with quality, confidence and with minimal intrevention.
+
+In modern data platforms, the opensource tools are productized and they abstract the complexity away from the end users i.e., data teams. Example: [Databricks](https://www.databricks.com/) offers [Apache Spark](https://spark.apache.org/) as a unified compute platform for data engineering and data science workloads.
+
+In data field, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) all existed in enterprise data warehousing long before Hadoop came into picture. Since the focus has shifted from data tools to resulting data, We see a growing intrest in enterprise data mamanagement tools and processes like these.
+
+### Skillset for Modern Data Engineering
+
+Without complicating, data engineers need strong data skills and good software engineering skills
+
+#### a. Data skills
+
+  1. SQL
+  2. Data Warehousing basics
+  3. Data Modelling
+
+#### b. Software Engineering skills
+
+  1. One programming language. Preferrably Python.
+  2. Git
+
+#### c. Data Engineering tools
+
+  1. Basics of distributed computing
+  2. Hadoop Ecosystem
+  3. Apache Spark
+
+#### d. Additional skills
+
+1. Pipeline Orchestration tool like Airflow, Azure Data Factory and etc
+2. Cloud services for data engineering
