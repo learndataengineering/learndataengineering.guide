@@ -81,7 +81,11 @@
 }
 
 .DocSearch-Button-Container {
-  padding: 0 1.5rem 0 0
+  padding: 0 1.5rem 0 1.5rem
+}
+
+.DocSearch-Button-Container2 {
+  padding: 0 1.5rem 0 1.5rem
 }
 
 .DocSearch-Button-Placeholder {
