@@ -20,7 +20,7 @@ The opensource revolution of the [Hadoop ecosystem](https://www.geeksforgeeks.or
 
 Shortly after their success, the opensource tools fell short of their expectations since they needed lot of software engineering, networking and baby-sitting skills to get the right data output within time.
 
-The [modern data engineering platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165) greatly abstracts a lot of complexities of the data stack of the previous [Hadoop](https://www.javatpoint.com/what-is-hadoop) years. The focus is on serving the quality data at scale with confidence and minimal intrevention as possible.
+The [modern data engineering platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165) greatly abstracts a lot of complexities of the data stack of the previous [Hadoop](https://www.javatpoint.com/what-is-hadoop) years. The focus is on serving the quality data at scale with confidence and as minimal intrevention as possible.
 
 ![ModernDataEngineering](../assets/img/index.md/ModernDataEngineeringPlatform.gif)
 
