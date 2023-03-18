@@ -12,7 +12,7 @@ As data engineers we deal with various data and engineering aspects to serve the
 
 As a beginner or even as an experienced data professional, it is very easy to get lost trying to understand what skills are required for data engineering and how to become a data engineer.
 
-This guide intends to solve that specific problem. It provides a clear path to the core data engineering skillset and beyond. More on this guide [here](https://www.learndataengineering.guide/faqs/).
+This guide intends to solve that specific problem. It provides a clear path to the core data engineering skillset and beyond. More on the guide [here](https://www.learndataengineering.guide/faqs/).
 
 ### Modern Data Engineering Landscape
 
@@ -24,21 +24,23 @@ The [modern data engineering platform](https://towardsdatascience.com/the-buildi
 
 | ![ModernDataEngineering](../assets/img/index.md/ModernDataEngineeringPlatform.gif) |
 |:--:|
-| *Image Credits -[Semantix](https://docs.semantix.cloud/)*|
+| *Image Credits - [Semantix](https://docs.semantix.cloud/)*|
 
 The opensource tools of big data era are productized in modern data platforms. Abstracting the complexity away from the end users i.e., data teams is the main goal here. For example: [Databricks](https://www.databricks.com/) offers [Apache Spark](https://spark.apache.org/) as a unified compute platform for data engineering and data science workloads.
 
 | ![ApacheSparkDatabrick](../assets/img/index.md/spark-databricks.png) |
 |:--:|
-| *Image Credits -[Databricks](https://www.databricks.com/)*|
+| *Image Credits - [Databricks](https://www.databricks.com/)*|
 
-Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes. In the modern data engineering, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) are also seeing a ressurgence.
+Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes. In the modern data engineering, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) are also seeing a ressurgence after the Hadoop era.
+
+### Modern Data Engineering Lifecycle
 
 The below image shows the breadth of all the data engineering lifecycle activities.
 
 | ![Data Engineering Lifecycle](../assets/img/index.md/data-engineering-lifecycle.jpeg) |
 |:--:|
-| *Image Credits -[Fundamentals of Data Engineering Book](https://xebia.com/blog/fundamentals-of-data-engineering/)*|
+| *Image Credits - [Fundamentals of Data Engineering Book](https://xebia.com/blog/fundamentals-of-data-engineering/)*|
 
 All of the data engineering activties in the [data engineering lifecycle](https://glossary.airbyte.com/term/data-engineering-lifecycle/) are achieved using few core skills listed below.
 
