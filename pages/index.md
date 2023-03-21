@@ -32,17 +32,45 @@ The opensource tools of big data era are productized in modern data platforms. A
 |:--:|
 | *Image Credits - [Databricks](https://www.databricks.com/)*|
 
-Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes. In the modern data engineering, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) are also seeing a ressurgence after the Hadoop era.
+Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes.
 
-### Modern Data Engineering Lifecycle
+### Data Engineering Lifecycle
 
-The below image shows the breadth of all the data engineering lifecycle activities.
+Lets talk about the data engineering lifecycle. It is the heart of all the activities that a data engineering team performs.
 
 | ![Data Engineering Lifecycle](../assets/img/index.md/data-engineering-lifecycle.jpeg) |
 |:--:|
 | *Image Credits - [Fundamentals of Data Engineering Book](https://xebia.com/blog/fundamentals-of-data-engineering/)*|
 
-All of the data engineering activties in the [data engineering lifecycle](https://glossary.airbyte.com/term/data-engineering-lifecycle/) are achieved using few core skills listed below.
+The different stages of data engineering lifecycle are:
+
+1. Generation - data is produced at source systems
+
+2. Ingestion - data is copied from source systems to a storage system at an interval
+
+3. Storage - data storage like data lake or data warehouse
+
+4. Transformation - data is converted to specified format
+
+5. Serving Data - data is made available for various stakeholders for further analysis
+
+The data engineering lifecycle also encompasses the undercurrents like:
+
+- Security - Access control to data and systems
+
+- Data Management - Data Discoverability, Data Definitions, Data Accountability, Data Modeling, Data Integrity
+
+- DataOps - Observability, Monitoring, Incident reporting
+
+- Data Architecture - Analyze trade-offs, Design for agility, Add value to the business
+
+- Orchestration - Coordinate workflows, Schedule jobs, Manage tasks
+
+- Software Engineering - Programming and coding skills, Software design patterns, Testing and Debugging
+
+In the modern data engineering, old is new. The terms like [data governance](https://www.ibm.com/in-en/topics/data-governance) and [data lineage](https://www.ibm.com/in-en/topics/data-lineage#:~:text=Data%20lineage%20is%20the%20process,destination%20within%20the%20data%20pipeline.) are also seeing a ressurgence after the Hadoop era.
+
+Most of the activties that a data engineer performs on a daily basis can be built using few core skills listed in the next section.
 
 ### Skillset for Modern Data Engineering
 
@@ -70,4 +98,4 @@ Without complicating, data engineers need strong data skills and good software e
 - Pipeline Orchestration tools like Airflow, Azure Data Factory and etc
 - Cloud services for data engineering
 
-Lets dive into each section in detail here
+Lets understand the skills one by one here.
