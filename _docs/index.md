@@ -10,7 +10,7 @@ Hello learner 👋, Welcome to the data engineering guide!
 
 As data engineers we deal with various data and engineering aspects to serve the data to various stakeholders. There are a ton of tools used in the modern data engineering to achieve this.
 
-As a beginner or even as an experienced data professional, it is very easy to get lost trying to understand what skills are required for data engineering and how to become a data engineer.
+As a beginner or even as an experienced data professional, it is very easy to get lost trying to understand what skills are required to become a data engineer
 
 This guide intends to solve that specific problem. It provides a clear path to the core data engineering skillset and beyond. More on the guide [here](https://www.learndataengineering.guide/faqs/).
 
