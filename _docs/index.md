@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Data Engineering Guide
 permalink: /
---- -->
+---
 
 Hello learner 👋, Welcome to the data engineering guide!
 
@@ -46,29 +46,29 @@ Lets talk about the data engineering lifecycle. It is the heart of all the activ
 
 The different stages of data engineering lifecycle are:
 
-1. Generation - data is produced at source systems
+1. **Generation** - data is produced at source systems
 
-2. Ingestion - data is copied from source systems to a storage system at a pre-defined interval
+2. **Ingestion** - data is copied from source systems to a storage system at a pre-defined interval
 
-3. Storage - data storage like data lake or data warehouse
+3. **Storage** - data storage like data lake or data warehouse
 
-4. Transformation - data from one or more sources is converted to a specified format
+4. **Transformation** - data from one or more sources is converted to a specified format
 
-5. Serving Data - transformed data is made available for various stakeholders for further analysis
+5. **Serving Data** - transformed data is made available for various stakeholders for further analysis
 
 The data engineering lifecycle also encompasses the underlying activities like:
 
-- Security - Access control to data and systems
+- **Security** - Access control to data and systems
 
-- Data Management - Data Discoverability, Data Definitions, Data Accountability, Data Modeling, Data Integrity
+- **Data Management** - Data Discoverability, Data Definitions, Data Accountability, Data Modeling, Data Integrity
 
-- DataOps - Observability, Monitoring, Incident reporting
+- **DataOps** - Observability, Monitoring, Incident reporting
 
-- Data Architecture - Analyze trade-offs, Design for agility, Add value to the business
+- **Data Architecture** - Analyze trade-offs, Design for agility, Add value to the business
 
-- Orchestration - Coordinate workflows, Schedule jobs, Manage tasks
+- **Orchestration** - Coordinate workflows, Schedule jobs, Manage tasks
 
-- Software Engineering - Programming and coding skills, Software design patterns, Testing and Debugging
+- **Software Engineering** - Programming and coding skills, Software design patterns, Testing and Debugging
 
 Most of the activties that a data engineer performs on a daily basis can be built using few core skills listed in the next section.
 
