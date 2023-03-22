@@ -98,4 +98,4 @@ Without complicating, data engineers need strong data skills and good software e
 - Pipeline Orchestration tools like Airflow, Azure Data Factory and etc
 - Cloud services for data engineering
 
-Lets understand the skills one by one. First [SQL](https://www.learndataengineering.guide/sql-for-data-engineers).
+Lets understand the skills one by one. First [SQL](https://www.learndataengineering.guide/sql).
