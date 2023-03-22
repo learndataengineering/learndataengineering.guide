@@ -1,8 +1,7 @@
 ---
 layout: page
 title: SQL for Data Engineers
-permalink: /sql-for-data-engineers
+permalink: /sql
 ---
 
-## SQL for Data Engineers
-
+### Why Data Engineers Need SQL?

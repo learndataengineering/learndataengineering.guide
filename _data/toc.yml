@@ -2,7 +2,7 @@
   url: ""
   links:
     - title: "SQL for Data Engineers"
-      url: "sql-for-data-engineers"
+      url: "sql"
     #   children:
     #     - title: Features
     #       url: "docs/getting-started#getting-started"
