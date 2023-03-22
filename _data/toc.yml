@@ -1,8 +1,8 @@
 - title: Guide
   url: ""
   links:
-    # - title: "Getting Started"
-    #   url: "docs/getting-started"
+    - title: "SQL for Data Engineers"
+      url: "sql-for-data-engineers"
     #   children:
     #     - title: Features
     #       url: "docs/getting-started#getting-started"
