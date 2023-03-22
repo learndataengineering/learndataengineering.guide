@@ -34,7 +34,7 @@ For example: [Databricks](https://www.databricks.com/) offers [Apache Spark](htt
 |:--:|
 | *Image Credits - [Databricks](https://www.databricks.com/)*|
 
-Since the focus has shifted from data tools to resulting data once again, We see a growing interest in enterprise data mamanagement tools and processes.
+Since the focus has shifted from data tools to resulting data once again, We see a growing interest in modern data tools and processes.
 
 ### Data Engineering Lifecycle
 
@@ -70,11 +70,11 @@ The data engineering lifecycle also encompasses the underlying activities like:
 
 - **Software Engineering** - Programming and coding skills, Software design patterns, Testing and Debugging
 
-Most of the activties that a data engineer performs on a daily basis can be built using few core skills listed in the next section.
+Most of the activties that a data engineering team performs on a daily basis can be achieved using few core skills listed in the next section. Ofcourse, this is not a complete list but it'll cover the necessary skillset.
 
 ### Skillset for Modern Data Engineering
 
-Without complicating, data engineers need strong data skills and good software engineering skills
+Without complicating, data engineers need strong data skills and good software engineering skills. 
 
 #### a. Data Skills
 
