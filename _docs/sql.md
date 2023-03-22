@@ -14,7 +14,7 @@ We write queries like statement in SQL to perform actions on data or the databas
 SELECT * FROM <database_name>.<table_name> 
 ```
 
-It offers a simple interface to intract with data stored in a database without having to write lengthy programs. This has served wide veriety of data personnel from various backgrounds well over four decades.
+It offers a simple interface to interact with data stored in a database without having to write lengthy programs. This has served wide veriety of data personnel from various backgrounds well over four decades.
 
 ### Why Data Engineers Need SQL?
 
