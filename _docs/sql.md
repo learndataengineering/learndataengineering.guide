@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase1- SQL
+title: Phase 1- SQL
 permalink: /sql
 ---
 
