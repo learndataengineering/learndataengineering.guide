@@ -76,24 +76,24 @@ Most of the activties that a data engineering team performs on a daily basis can
 
 Without complicating, data engineers need strong data skills and good software engineering skills. The list of skills are arranged in phases.
 
-#### Phase 1: Data Skills
+#### Phase 1- Data Skills
 
 - SQL
 - Data Warehousing basics
 - Data Modelling
 
-#### Phase 2: Software Engineering Skills
+#### Phase 2- Software Engineering Skills
 
 - One programming language. Preferrably Python.
 - Git
 
-#### Phase 3: Data Engineering Tools
+#### Phase 3- Data Engineering Tools
 
 - Basics of distributed computing
 - Hadoop Ecosystem Components
 - Data Warehouse like Apache Spark with Cloud Storage or Snowflake, BigQuery
 
-#### Phase 4: Additional Skills
+#### Phase 4- Additional Skills
 
 - Pipeline Orchestration tools like Airflow, Azure Data Factory and etc
 - Cloud services for data engineering
