@@ -20,7 +20,7 @@ SQL offers a simple interface to interact with data stored in a database without
 
 Data engineering tools and processes have evolved quite a lot over the years. One tool kept its relevance through all these times i.e., SQL.
 
-Since SQL offered a simple interface to deal with data, many data warehousing tools like [Hive](https://aws.amazon.com/big-data/what-is-hive/), [Snowflake](https://www.snowflake.com/en/), and query engines like [Apache Spark](https://spark.apache.org/) adopted SQL as one of their main interfaces.
+Since SQL offered a simple interface to deal with data, many data warehousing tools like [Hive](https://aws.amazon.com/big-data/what-is-hive/), [Snowflake](https://www.snowflake.com/en/), [BigQuery](https://cloud.google.com/bigquery), and query engines like [Apache Spark](https://spark.apache.org/) adopted SQL as one of their main interfaces.
 
 This will help data teams to work with SQL for many tasks like
 
