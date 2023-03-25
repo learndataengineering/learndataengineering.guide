@@ -40,8 +40,8 @@ Of course, the SQL is not be-all and end-all solution for all data engineering t
 
 1. Table/View Operations
 
-   - `CREATE TABLE`/`VIEW`
-   - `ALTER TABLE`
+   - `CREATE`
+   - `ALTER`
    - `TRUNCATE`
    - `DROP`
 
