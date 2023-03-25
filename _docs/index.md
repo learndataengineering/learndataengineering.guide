@@ -74,26 +74,26 @@ Most of the activties that a data engineering team performs on a daily basis can
 
 ### Skillset for Modern Data Engineering
 
-Without complicating, data engineers need strong data skills and good software engineering skills. The list of skills are as follows:
+Without complicating, data engineers need strong data skills and good software engineering skills. The list of skills are arranged in phases.
 
-#### a. Data Skills
+#### Phase 1: Data Skills
 
 - SQL
 - Data Warehousing basics
 - Data Modelling
 
-#### b. Software Engineering Skills
+#### Phase 2: Software Engineering Skills
 
 - One programming language. Preferrably Python.
 - Git
 
-#### c. Data Engineering Tools
+#### Phase 3: Data Engineering Tools
 
 - Basics of distributed computing
 - Hadoop Ecosystem Components
 - Data Warehouse like Apache Spark with Cloud Storage or Snowflake, BigQuery
 
-#### d. Additional Skills
+#### Phase 4: Additional Skills
 
 - Pipeline Orchestration tools like Airflow, Azure Data Factory and etc
 - Cloud services for data engineering

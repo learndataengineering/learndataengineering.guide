@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQL for Data Engineers
+title: `Phase1:` SQL
 permalink: /sql
 ---
 
