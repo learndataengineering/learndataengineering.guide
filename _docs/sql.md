@@ -34,7 +34,7 @@ This will help data teams to work with SQL for many tasks like
   4. Data analysis
   5. Building reports
 
-Of course, the SQL is not be-all and end-all solution for all data engineering tasks but it is necessarily a very important skills in modern data engineering.
+Of course, the SQL is not be-all and end-all solution for all data engineering tasks but it is arguably a very important skills in modern data engineering.
 
 ### Types of Data in Data
 
