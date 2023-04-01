@@ -1,5 +1,8 @@
 - title: Data Engineering Guide
   url: ""
+  links:
+    - title: "FAQs"
+      url: "faqs"
 - title: "Phase 1- Data Skills"
   url: "phase1/data-skills"
   links:
@@ -32,8 +35,6 @@
       url: "docs/phase4/pipeline-orchestration-tools"
     - title: "Cloud services for Data Engineering"
       url: "docs/phase4/cloud-services-for-data-engineering"
-    - title: "FAQs"
-      url: "faqs"
     # - title: "News"
     #   url: "news"
 # - title: "Extras"
