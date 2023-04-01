@@ -26,7 +26,6 @@ permalink: /sql
 
 [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
 
-
 ### What is SQL?
 
 SQL (Structured Query Language) is a [declarative language](https://en.wikipedia.org/wiki/Declarative_programming) for storing, manipulating and retreiving data in databases and many other data processing systems.
