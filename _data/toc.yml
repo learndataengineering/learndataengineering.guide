@@ -9,8 +9,8 @@
       url: "phase1/data-warehousing"
     - title: "Data Modelling"
       url: "phase1/data-modelling"
-- title: "Phase 2- Programming language"
-  url: "docs/phase2/programming-language"
+- title: "Phase 2- Programming Skills"
+  url: "docs/phase2/programming-skills"
   links:
     - title: "Python"
       url: "docs/phase2/python"
