@@ -10,23 +10,23 @@ permalink: /sql
 
    <summary>RDBMS Concepts</summary>
 
-   - [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
+1. [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
 
-   - [Database Architecture in DBMS](https://www.guru99.com/dbms-architecture.html)
+2. [Database Architecture in DBMS](https://www.guru99.com/dbms-architecture.html)
 
-   - [DBMS Schemas](https://www.guru99.com/dbms-schemas.html)
+3. [DBMS Schemas](https://www.guru99.com/dbms-schemas.html)
 
-   - [Relational Data Model in DBMS](https://www.guru99.com/relational-data-model-dbms.html)
+4. [Relational Data Model in DBMS](https://www.guru99.com/relational-data-model-dbms.html)
 
-   - [ER Diagram](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+5. [ER Diagram](https://www.guru99.com/er-diagram-tutorial-dbms.html)
 
-   - [DBMS Keys](https://www.guru99.com/dbms-keys.html)
+6. [DBMS Keys](https://www.guru99.com/dbms-keys.html)
 
-   - [SQL Commands: DML, DDL, DCL, TCL, DQL](https://www.guru99.com/sql-commands-dbms-query.html)
+7. [SQL Commands: DML, DDL, DCL, TCL, DQL](https://www.guru99.com/sql-commands-dbms-query.html)
 
-   - [Transaction Management in DBMS](https://www.guru99.com/dbms-transaction-management.html)
+8. [Transaction Management in DBMS](https://www.guru99.com/dbms-transaction-management.html)
 
-   - [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
+9. [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
 
 </details>
 
