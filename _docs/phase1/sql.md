@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phase 1- SQL
-permalink: /sql
+permalink: /phase1/sql
 ---
 
 ### Prerequisites
