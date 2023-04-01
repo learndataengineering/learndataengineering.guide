@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase 1- Data Skills
+title: "Phase 1- Data Skills"
 permalink: /phase1/data-skills
 tags: 
   - data-skills
