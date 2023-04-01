@@ -6,8 +6,7 @@ permalink: /sql
 
 ### Prerequisites
 
-<details>
-  <summary>RDBMS Concepts</summary>
+**RDBMS Concepts**
 
 [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
 
@@ -27,7 +26,6 @@ permalink: /sql
 
 [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
 
-</details>
 
 ### What is SQL?
 
