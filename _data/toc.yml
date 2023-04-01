@@ -1,15 +1,34 @@
 - title: Guide
   url: ""
   links:
-    - title: "SQL"
+    - title: "Phase 1- SQL"
       url: "sql"
-    #   children:
-    #     - title: Features
-    #       url: "docs/getting-started#getting-started"
-    #     - title: Development
-    #       url: "docs/getting-started#development"
-    #     - title: Customization
-    #       url: "docs/getting-started#customization"
+      children:
+      - title: "Data Warehousing"
+        url: "data-warehousing"
+      - title: "Data Modelling"
+        url: "data-modelling"
+    - title: "Phase 2- Python"
+      url: "python"
+      children:
+      - title: "Git"
+        url: "git"
+    - title: "Phase 3- Data Engineering Tools"
+      url: "data-engineering-tools"
+      children:
+      - title: "Distributed Computing"
+        url: "distributed-computing"
+      - title: "Hadoop Ecosystem Components"
+        url: "hadoop-ecosystem"
+      - title: "Data Warehouse"
+        url: "data-warehouse"
+    - title: "Phase 4- Additional Skills"
+      url: "additional-skills"
+      children:
+      - title: "Pipeline Orchestration"
+        url: "pipeline-orchestration-tools"
+      - title: "Cloud services for Data Engineering"
+        url: "cloud-services-for-data-engineering"
     - title: "FAQs"
       url: "faqs"
     # - title: "News"
