@@ -6,6 +6,7 @@ permalink: /sql
 
 ### Prerequisites
 
+<!-- {% raw %} -->
 <details>
   <summary>RDBMS Concepts</summary>
 
@@ -28,6 +29,7 @@ permalink: /sql
 9. [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
 
 </details>
+<!-- {% endraw %} -->
 
 ### What is SQL?
 
