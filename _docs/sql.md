@@ -8,7 +8,7 @@ permalink: /sql
 
 <details>
 
-   <summary>RDBMS Concepts</summary>
+<summary>RDBMS Concepts</summary>
 
 1. [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
 
