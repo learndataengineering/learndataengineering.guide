@@ -2,13 +2,13 @@
   url: ""
   links:
     - title: "Phase 1- Data Skills"
-      url: "docs/phase1/data-skills"
+      url: "phase1/data-skills"
     - title: "SQL"
-      url: "docs/phase1/sql"
+      url: "phase1/sql"
     - title: "Data Warehousing"
-      url: "docs/phase1/data-warehousing"
+      url: "phase1/data-warehousing"
     - title: "Data Modelling"
-      url: "docs/phase1/data-modelling"
+      url: "phase1/data-modelling"
 - title: "Phase 2- Programming language"
   url: "docs/phase2/programming-language"
   links:
