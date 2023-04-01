@@ -1,8 +1,8 @@
 - title: Guide
   url: ""
+- title: "Phase 1- Data Skills"
+  url: "phase1/data-skills"
   links:
-    - title: "Phase 1- Data Skills"
-      url: "phase1/data-skills"
     - title: "SQL"
       url: "phase1/sql"
     - title: "Data Warehousing"
