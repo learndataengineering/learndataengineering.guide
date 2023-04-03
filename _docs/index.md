@@ -2,6 +2,11 @@
 layout: page
 title: Data Engineering Guide
 permalink: /
+tags: 
+  - introduction
+author:
+  name: Mani Nekkalapudi
+  github: maninekkalapudi
 ---
 
 Hello learner 👋, Welcome to the data engineering guide!
@@ -10,15 +15,15 @@ Hello learner 👋, Welcome to the data engineering guide!
 
 As data engineers we deal with various data and engineering aspects to serve the data to stakeholders. There are a ton of tools used in the modern data engineering(DE) to achieve this.
 
-As a beginner or even as an experienced data professional, setting the right context about the field and to understand what skills are required along the path to become a data engineer is a bit cumbersome.
+As a beginner or even as an experienced data professional, setting the right context about the field and skills required to become a data engineer is proving to be a bit cumbersome.
 
-This guide intends to solve that specific problem. It tries to provide a clear context and core skills for DE and beyond. More on the guide [here](https://www.learndataengineering.guide/faqs/).
+There are new tools introduced every other week to alleviate the burden on the DE teams. This guide intends to solve that specific problem. It tries to provide a clear context and core skills for DE. More on the guide [here](https://www.learndataengineering.guide/faqs/).
 
 ### Big Data Era and Modern Data Engineering Landscape
 
-Internet ushered the big data era. The opensource revolution of the [Hadoop ecosystem](https://www.geeksforgeeks.org/hadoop-ecosystem/) years enabled any oraganization with decent IT experiennce to build their own data platforms that could be on par with the internet companies of Silicon Valley.
+Internet ushered the big data era. The opensource revolution of the [Hadoop ecosystem](https://www.geeksforgeeks.org/hadoop-ecosystem/) years enabled any oraganization with decent IT experiennce to build their own data platforms that could be on par with Silicon Valley's internet companies.
 
-Shortly after their success, the opensource tools fell short of their expectations since they needed lot of software engineering, networking and baby-sitting skills to get the right data output within time.
+Shortly after their success, the those tools fell short of the expectations since they needed lot of software engineering, networking and baby-sitting skills to get the right data output within time.
 
 The [modern data engineering platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165) greatly abstracts a lot of complexities of the data stack of the previous Hadoop years. The focus is on serving the quality data at scale with confidence and with minimal intrevention.
 
@@ -34,7 +39,7 @@ For example: [Databricks](https://www.databricks.com/) offers [Apache Spark](htt
 |:--:|
 | *Image Credits - [Databricks](https://www.databricks.com/)*|
 
-There are cloud-first data warehouses like [Snowflake](https://www.snowflake.com/) and [Big Query](https://cloud.google.com/bigquery) as the alternatives to the opensource tools. They offer enterprise data management tools for veriety of data teams right out of the box.
+There are cloud-first data warehouses like [Snowflake](https://www.snowflake.com/) and [Big Query](https://cloud.google.com/bigquery) as the alternatives to the opensource based products. They offer enterprise data management tools for veriety of data teams right out of the box.
 
 Since the focus has shifted from data tools to resulting data once again, We see a growing interest in modern data tools and processes.
 
