@@ -43,7 +43,7 @@ github_repo: learndataengineering.guide
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/tw-jekyll.png
+logo: assets/img/learndataengineeringlogo-small.jpg
 
 # branch to edit on GitHub
 github_branch: main
