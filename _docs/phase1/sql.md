@@ -6,9 +6,10 @@ permalink: /phase1/sql
 
 ### Prerequisites
 
-- **RDBMS Concepts**
+<details>
+  <summary>RDBMS Concepts</summary>
 
-   [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
+  [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
 
    [Database Architecture in DBMS](https://www.guru99.com/dbms-architecture.html)
 
@@ -25,6 +26,8 @@ permalink: /phase1/sql
    [Transaction Management in DBMS](https://www.guru99.com/dbms-transaction-management.html)
 
    [Relational Algebra in DBMS](https://www.guru99.com/relational-algebra-dbms.html)
+
+</details>
 
 ### What is SQL?
 
