@@ -2,6 +2,13 @@
 layout: page
 title: Phase 1- SQL
 permalink: /phase1/sql
+tags: 
+  - data-skills
+  - data
+  - SQL
+author:
+  name: Mani Nekkalapudi
+  github: maninekkalapudi
 ---
 
 ### Prerequisites
@@ -154,3 +161,17 @@ Data in the data engineering domain can be broadly classified into [structured, 
 
 **Note:**
 This is not the complete list of all the topics in SQL for data engineers. It covers only necessary topics.
+
+### Resources
+
+The below mentioned SQL playlist is a fantastic resource for folks with various experience levels alike.
+
+<iframe width="600" height="315"
+src="https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB">
+</iframe>
+
+**For practice**:
+
+- Hackerrank provides a good amount of problems with from easy to hard levels. This is good for beginners Check the below link.
+
+   [Hackerrank SQL problems](https://www.hackerrank.com/domains/sql)
