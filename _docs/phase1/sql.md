@@ -166,9 +166,7 @@ This is not the complete list of all the topics in SQL for data engineers. It co
 
 The below mentioned SQL playlist is a fantastic resource for folks with various experience levels alike.
 
-<iframe width="600" height="315"
-src="https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL08903FB7ACA1C2FB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **For practice**:
 
