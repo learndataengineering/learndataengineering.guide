@@ -162,9 +162,17 @@ Data in the data engineering domain can be broadly classified into [structured, 
 **Note:**
 This is not the complete list of all the topics in SQL for data engineers. It covers only necessary topics.
 
+### SQL Flavours
+
+There are many flavours of SQL available for relational databases and query engines. [**ANSI** standard](https://www.youtube.com/watch?v=K8K2Fp2S7iY) is the universal standard for writing SQL queries.
+
+Almost every database, query engine supports the ANSI SQL standard loosely. All the standard operations like `SELECT`, `INSERT`, `UPDATE` and `DELETE` should have the same syntax.
+
+Database vendors like Oracle([PLSQL](https://www.tutorialspoint.com/plsql/plsql_overview.htm)), Microsoft([T-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)) and opensource databases like MySQL and PostgreSQL add a lot of features on top of the ANSI standard.
+
 ### Resources
 
-The below mentioned SQL playlist is a fantastic resource for folks with various experience levels alike.
+The below mentioned SQL playlist is a fantastic resource for folks with various experience levels alike. It uses Microsoft SQL Server and T-SQL for the tutorials.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL08903FB7ACA1C2FB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -173,3 +181,9 @@ The below mentioned SQL playlist is a fantastic resource for folks with various 
 - Hackerrank provides a good amount of problems with from easy to hard levels. This is good for beginners Check the below link.
 
    [Hackerrank SQL problems](https://www.hackerrank.com/domains/sql)
+
+### Objective of learning SQL
+
+SQL is a tool that is used across many levels and roles in the broader data domain. The problem statements can often come in plain language from technical and non-techincal folks alike.
+
+As data engineers, we need to understand those problem statements and use SQL to quickly analyze the data and solve the problems. Ability to communicate back the results in plain language after the analysis is a huge plus.
