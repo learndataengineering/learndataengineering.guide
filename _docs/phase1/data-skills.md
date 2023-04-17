@@ -75,7 +75,7 @@ Below diagram represents a typical data engineering pipeline with all the activi
 
 - After data ingestion, it is transformed into a format specified by the business. This data will be stored in staging layer for further analysis.
 
-- SQL is one skill that is common across all the data roles. It is used to perform various operations like cleaning, transforming, data analysis, data modelling on the tabular/relational data.
+- SQL is one skill that is common across all the data roles. It is used to perform various operations like cleaning, transforming, data analysis, data modelling on the tabular/relational data. This happens at Raw, Staging, Serving layers respectively.
 
 - Staging layer will have the data from various sources that is ready to be consumed by various downstream systems like BI tools, Machine learning, business reports and etc.
 
