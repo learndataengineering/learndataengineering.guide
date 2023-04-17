@@ -21,31 +21,33 @@ Data professionals like data engineers or a data analyst will try to make sense 
 
 For example:
 
-- A BI developer will understand the business requirements and generate the reports for business users
+- A BI developer will understand the business requirements, accesses the data from various tables or sources and generate the reports for business users
 
-- A data scientist will understand the business requirements and develop the models to predict the user behaviours.
+- A data scientist will understand the business requirements and develop the ML models to predict the user behaviours.
 
 Having the domain knowledge of the data combined with technical skills to extract the information are called as data skills.
 
 ### Domain Knowledge
 
-It is something that is aquired gradually over the time working in a broader field. It holds all the details of core knowledge of business processes, operations, regulatory compliances and etc., in an organization.
+Domain Knowledge is something that is aquired gradually over the time working in a particular field. It holds the core details of the business, technical details, operations, regulatory compliances and many broader aspects.
 
-Suppose, you are woking with a company specializes in pharmaceutical domain. Knowing how the domain operates on a boarder level is invaluable in understanding the data itself. Again, this knowledge is completely different from, say, an ecommerce domain.
+Suppose, you are woking with a company specializes in pharmaceutical domain. Knowing the technical details of how the domain operates on a boarder level is invaluable in understanding the data itself. Again, this knowledge is completely different from, say, an ecommerce domain.
 
 ### Technical Knowledge
 
-Technical knowledge of different systems like databases, BI tools, data processes and others required to function in the relevant role.
+Understanding of different operational systems (source systems) like databases, APIs, event streaming system and etc. For data engineers, this knowledge is important.
 
-For data engineers, knowledge on the data sources like a database, APIs, file servers and the nature of the data itself is pretty important.
+We need to understand the format and frequency of the data being generated at those sources. Later, we can design an ingestion pipeline(s) to bring the data from operational systems to analytical system like a data warehouse.
 
-SQL is one skill that is common across all the data roles which is used to perform various operations on mostly tabular/relational data.
+Once the data lands in the analytical system, the data is converted into a specific format and then served to various stakeholders.
 
-We also need to understand concepts like Data warehousing and Data Modelling. Lets dive deep in the next section.
+We also need to understand concepts like Data Warehousing and Data Modelling to store data efficiently and provide a consistent view of the data across the organization. Lets dive deep in these in the next section.
 
-### Understanding the Data Skills for Data Engineers
+Now, lets understand the typical data engineering process.
 
-Data engineering team(s) acts as data and knowledge brokers within a company. The data from various operational system within the business will be captured into analytical systems like a data warehouse. Later it will be processed and served to different stakeholders.
+### Understanding the Typical Data Engineering Processes
+
+Data engineering team(s) acts as data and knowledge brokers within a company. Data from various operational system within the business will be captured into analytical systems like a data warehouse. Later it will be processed and served to different stakeholders.
 
 Below diagram represents a typical data engineering pipeline with all the activities carried out by the DE team. Lets understand this in the context of skills.
 
@@ -55,18 +57,28 @@ Below diagram represents a typical data engineering pipeline with all the activi
 
 **Sources**:
 
-- Sources are typically the operational systems like a database, an API, a CRM system, or a fileserver
+- Sources are typically the operational systems like a database, a CRM system, an API, an event streaming system and etc.
 
-- These will record the current state of the business. Ex: Order status in orders table. It will have only the latest order status for the orders
+- These systems will record the current state of the business. Ex: Order status in orders database table. It will have only the latest order status for the orders
 
-- Operational systems, like a database, are designed to serve millions of customers at once and to update individual records frequently
+- Operational systems, like a database, are designed to serve millions of customers at once and to update individual records frequently.
 
-- knowledge on how the data is caputured in these systems, type of the data, frequency of updates and capturing all those updates into a data warehouse is the primary requirement for the data engineering team
+- Operational systems are not suitable for performing in-depth analysis as their main purpose is to serve customers without any down time.
 
-- A data ingestion framework that includes capturing and storing the data for each type of data source will be created. Programming languages like Python or Scala can be used for this task.
+- Knowledge on how the data is produced in the operational systems, type of the data, frequency of updates and capturing updates into a data warehouse is required for the data engineering team
+
+- A data ingestion framework that includes capturing and storing the data for each type of data source will be created.
 
 **Raw, Staging and Serving**:
 
-- Once the data is ingested, we will convert the raw data into a format specified by the business. This data will be promoted to staging.
+- Data in the raw layer can be in different formats like [structured, semi-structured and unstructured](https://k21academy.com/microsoft-azure/dp-900/structured-data-vs-unstructured-data-vs-semi-structured-data/).
 
-- Data in the raw layer can be in different formats like structured, semi-structured and unstructured.
+- After data ingestion, it is transformed into a format specified by the business. This data will be stored in staging layer for further analysis.
+
+- SQL is one skill that is common across all the data roles. It is used to perform various operations like cleaning, transforming, data analysis, data modelling on the tabular/relational data.
+
+- Staging layer will have the data from various sources that is ready to be consumed by various downstream systems like BI tools, Machine learning, business reports and etc.
+
+- Serving layer mostly consists of aggregated data ready to be consumed by a BI tool or for reporting to the business.
+
+- More often then not staging and serving layer will have tables that has the data from various sources according to the requirements.
