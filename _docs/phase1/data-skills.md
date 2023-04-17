@@ -81,4 +81,4 @@ Below diagram represents a typical data engineering pipeline with all the activi
 
 - Serving layer mostly consists of aggregated data ready to be consumed by a BI tool or for reporting to the business.
 
-- More often then not staging and serving layer will have tables that has the data from various sources according to the requirements.
+- More often then not staging and serving layers will have tables that has the data from various sources according to the requirements.
