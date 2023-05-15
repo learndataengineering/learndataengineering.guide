@@ -10,8 +10,8 @@
       url: "phase1/sql"
     - title: "Data Warehousing"
       url: "phase1/data-warehousing"
-    - title: "Data Modelling"
-      url: "phase1/data-modelling"
+    - title: "Dimensional Modelling"
+      url: "phase1/dimensional-modelling"
 - title: "Phase 2- Programming Skills"
   url: "docs/phase2/programming-skills"
   links:
