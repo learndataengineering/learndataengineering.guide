@@ -108,6 +108,20 @@ More on this in [phase 2](https://www.learndataengineering.guide/docs/phase2/pro
 
 More on this in [here](https://www.learndataengineering.guide/phase1/sql).
 
-| ![Structured Data](../assets/img/../../../assets/img/data-skills.md/data-engineer-skills.png) |
-|:--:|
-| *[Data Skills overlap between two data roles]*|
+**Dimensional Modelling**:
+
+Dimensional modeling is a data modeling technique that is used to organize data in a way that makes it easy to analyze. It is a popular technique for data warehouses, as it allows for fast and efficient querying of large amounts of data
+
+A dimensional model consists of two main types of tables:
+
+- Fact tables contain the actual data that is being analyzed. They typically contain numeric values, such as sales figures or customer counts.
+
+- Dimension tables contain descriptive data that is used to categorize or filter the data in the fact tables. For example, a dimension table for sales might contain columns for product, customer, and date.
+
+For example:
+
+- **A retail store might use a dimensional model to track sales data**. The fact table would contain columns for sales date, product ID, customer ID, and quantity sold. The dimension tables would contain columns for product information, customer information, and date information
+
+- **A bank might use a dimensional model to track customer account data**. The fact table would contain columns for account ID, account type, transaction date, and amount. The dimension tables would contain columns for account information, transaction type, and date information
+
+More on this [here](https://www.learndataengineering.guide/phase1/dimensional-modelling).
