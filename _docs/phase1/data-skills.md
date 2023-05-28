@@ -21,7 +21,7 @@ Data professionals like data engineers or a data analysts will try to make sense
 
 For example:
 
-- A BI developer will understand the business requirements, accesses the data, likely from various sources; and generates the reports for business users
+- A BI developer will understand the business requirements, assess the data, likely from various sources; and generates the reports for business users
 
 - A data scientist will understand the business requirements and develop the ML models to predict the user behaviours.
 
@@ -39,7 +39,7 @@ Understanding of different operational systems (source systems) like databases, 
 
 We need to understand the format and frequency of the data being generated at those sources. Later, we can design processes to bring the data into an analytical system like a data warehouse for futher processing, analysis and serving.
 
-Once the data lands in the analytical system, the data is converted into a specific format defined by business and then served to various stakeholders. There are various tools available to data engineers to perform their tasks and provide the data downstream users.
+Once the data lands in the analytical system, the data is converted into a specific format defined by the stakeholders. There are various tools available for data engineers to perform their tasks and provide the data downstream users.
 
 We also need concepts like Data Warehousing and Data Modelling to understand efficient data storage and provide a consistent view of the data across the organization respectively.
 
