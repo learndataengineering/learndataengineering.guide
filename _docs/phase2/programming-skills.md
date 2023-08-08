@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Phase 2- Python"
-permalink: /phase2/python
+title: "Phase 2- Programming Skills"
+permalink: /phase2/programming_skills
 tags: 
   - python
   - programming languague
@@ -12,5 +12,3 @@ author:
 ---
 
 ### Introduction
-
-Python is the programming language of the data.
