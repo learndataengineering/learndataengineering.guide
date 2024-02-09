@@ -98,6 +98,17 @@ Without complicating, data engineers need strong data skills and good software e
 
 - Basics of distributed computing
 - Hadoop Ecosystem Components
+
+    **HDFS**: Hadoop Distributed File System
+
+    **YARN**: Yet Another Resource Negotiator
+
+    **MapReduce**: Programming based Data Processing
+
+    **Spark**: In-Memory data processing
+
+    **HIVE**: Query based processing of data services
+
 - Data Warehouse like Apache Spark with Cloud Storage or Snowflake, BigQuery
 
 #### Phase 4- Additional Skills
