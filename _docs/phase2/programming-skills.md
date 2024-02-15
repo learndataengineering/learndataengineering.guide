@@ -13,4 +13,4 @@ author:
 
 ### Introduction
 
-As Data Engineer we need programing skills for day to day work
+As Data Engineers, we need a programming skills.
