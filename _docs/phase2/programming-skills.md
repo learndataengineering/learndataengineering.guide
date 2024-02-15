@@ -12,3 +12,5 @@ author:
 ---
 
 ### Introduction
+
+As Data Engineers, we need a programming skills.
