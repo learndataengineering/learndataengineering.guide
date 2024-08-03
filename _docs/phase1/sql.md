@@ -186,4 +186,4 @@ The below mentioned SQL playlist is a fantastic resource for folks with various 
 
 SQL is a tool that is used across many levels and roles in the broader data domain. The problem statements can often come in plain language from technical and non-techincal folks alike.
 
-As data engineers, we need to understand those problem statements and use SQL to quickly analyze the data and solve the problems. Ability to communicate back the results in plain language after the analysis is a huge plus.
+As data engineers, we need to understand those problem statements in plain english and use SQL to quickly analyze the data and solve the problems. Ability to communicate back the results in simple language after the analysis is a huge plus.

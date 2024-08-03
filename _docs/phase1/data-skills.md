@@ -63,7 +63,7 @@ Below diagram represents a typical DE pipeline with all the activities carried o
 
 - Operational systems, like a database, are designed to serve millions of customers at once and to update individual records frequently.
 
-- Operational systems are not suitable for performing in-depth analysis as their main purpose is to serve customers without any downtime.
+- Operational systems are not suitable for performing in-depth analysis and their main purpose is to serve customers without any downtime.
 
 - Knowledge on how the data is produced in the operational systems, type of the data, frequency of updates (data and system) and capturing those updates into the data warehouse is required for the DE team
 
